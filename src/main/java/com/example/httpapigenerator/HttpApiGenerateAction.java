@@ -17,7 +17,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-public class PopupDialogAction extends AnAction {
+public class HttpApiGenerateAction extends AnAction {
 
     @Override
     public void update(@NotNull AnActionEvent e) {

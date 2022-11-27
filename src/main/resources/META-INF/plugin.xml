@@ -30,8 +30,8 @@
 
     </extensions>
     <actions>
-        <action id="com.example.httpapigenerator.PopupDialogAction"
-                class="com.example.httpapigenerator.PopupDialogAction" text="TestAction">
+        <action id="com.example.httpapigenerator.HttpApiGenerateAction"
+                class="com.example.httpapigenerator.HttpApiGenerateAction" text="生成API文档">
             <add-to-group group-id="NewGroup" anchor="first"/>
         </action>
     </actions>
